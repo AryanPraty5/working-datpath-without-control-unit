@@ -12,7 +12,7 @@ Made a full manually-controlled datapath which connects 5 different modules that
 |Arithmetic Logic Unit| The `ALU` is the unit which handles the arithmetic operations such as add,subtract,multiply and division. It gives the result on an always-live wire which drives the bus whenever needed.|
 
 ## Remarks:
-The Datapath is fully controlled by the user using testbenches written in verilog. For now, this module doesnt use a control unit and lets us decide what happens when. In the upcoming work, a `**Finite State Machine (FSM)**` called the `**Control Unit**` will handle what sequence comes next.
+The Datapath is fully controlled by the user using testbenches written in verilog. For now, this module doesnt use a control unit and lets us decide what happens when. In the upcoming work, a `Finite State Machine (FSM)` called the `Control Unit` will handle what sequence comes next.
 
 
 ## Schematic
