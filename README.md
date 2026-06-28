@@ -1,6 +1,6 @@
 # Working Datpath without Control Unit
 
-Made a full manually-controlled datapath which connects 5 different modules that passes and stores 8-bit information ; implemented and verified in Vivado
+Made a full manually-controlled datapath which connects 5 different modules that passes and stores 8-bit information, implemented and verified in Vivado
 
 ## Modules 
 |**Module Name**|**Function**|
